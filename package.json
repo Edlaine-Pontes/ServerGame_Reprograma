@@ -1,0 +1,27 @@
+{
+  "name": "ServerGame_Reprograma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edlaine-Pontes/ServerGame_Reprograma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edlaine-Pontes/ServerGame_Reprograma/issues"
+  },
+  "homepage": "https://github.com/Edlaine-Pontes/ServerGame_Reprograma#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.5"
+  }
+}
